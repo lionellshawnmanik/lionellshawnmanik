@@ -12,6 +12,14 @@
 </p>
 
 </div>
+<h3><code>avi@github ~ $ whoami</code></h3>
+
+<table>
+<tr>
+<td valign="top"><img src="./avi-ascii.svg" width="420" alt="Avi Vashishta — ASCII portrait" /></td>
+<td valign="top"><img src="./stats.svg" width="420" alt="Avi's GitHub streak and contribution stats — auto-refreshed daily" /></td>
+</tr>
+</table>
 
 ---
 
