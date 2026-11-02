@@ -1,64 +1,57 @@
-<div align="center"> <!-- Animated header --> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:312e81,100:06b6d4&height=220&section=header&text=Lionell%20Shawn%20Manik&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Building%20ideas%20one%20commit%20at%20a%20time&descAlignY=59&descSize=16" width="100%" alt="Animated gradient header" /> <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=850&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Lionell+%F0%9F%91%8B;Frontend+%2F+full-stack+builder;Learning%2C+creating%2C+and+shipping+cool+things;Welcome+to+my+corner+of+GitHub!" alt="Animated typing introduction" />
-</a> <p>
-  <a href="https://github.com/lionellshawnmanik?tab=repositories"><img src="https://img.shields.io/badge/Explore-My%20Projects-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" /></a>
-  <a href="https://www.instagram.com/eltenze/"><img src="https://img.shields.io/badge/Instagram-Connect-ec4899?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://youtube.com/@eltenze"><img src="https://img.shields.io/badge/YouTube-Watch%20my%20content-ef4444?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-</p> <img src="https://komarev.com/ghpvc/?username=lionellshawnmanik&style=flat-square&color=06b6d4&label=PROFILE+VIEWS" alt="Profile views" /> </div>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm lionell shawn manik</h1>
 
-About me
+<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
-•
-Based in Indonesia 🇮🇩
+## 📌 About Me
+- 💡 <em>✏️ A sentence about you and what you do.</em>
 
-•
-Interested in building for the web; HTML is currently my top public language on GitHub.
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lionellshawnmanik&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="lionellshawnmanik's GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=lionellshawnmanik&theme=nightowl&hide_border=true&cache_seconds=86400" alt="lionellshawnmanik's GitHub Streak" width="49%" />
+</p>
 
-•
-I enjoy turning ideas into projects and learning by shipping.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lionellshawnmanik&layout=compact&theme=nightowl&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lionellshawnmanik&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="lionell shawn manik's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=lionellshawnmanik&theme=nightowl&radius=10" alt="lionellshawnmanik's Activity Graph" />
+</p>
 
-•
-Find me on 
+## 🛠️ Languages & Tools
 
-Instagram, 
+> ## Programming Languages
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="48" height="48" style="margin: 4px;" /></p>
 
-TikTok, and 
+> ## Frontend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="48" height="48" style="margin: 4px;" /></p>
 
-YouTube.
+> ## Backend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="48" height="48" style="margin: 4px;" /></p>
 
-Featured repositories
+> ## Database
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## DevOps & Cloud
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Tools
+<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /></p>
+
+## 🔗 Connect with Me
+<p align="center"><a href="https://www.linkedin.com/in/your-handle" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:you@example.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
 <div align="center">
-
-<a href="https://github.com/lionellshawnmanik/eltenze"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lionellshawnmanik&repo=eltenze&theme=tokyonight&hide_border=true" alt="eltenze repository card" /></a>
-<a href="https://github.com/lionellshawnmanik/lionell"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lionellshawnmanik&repo=lionell&theme=tokyonight&hide_border=true" alt="lionell repository card" /></a>
-
-</div> <details>
-<summary><strong>More about my projects</strong></summary>
-    
-
-  Browse all my public work in the <a href="https://github.com/lionellshawnmanik?tab=repositories">repositories tab</a>. The cards above update from GitHub and link straight to the projects.
-</details>
-
-GitHub activity
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=lionellshawnmanik&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub profile statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lionellshawnmanik&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-    
-
-  <img src="https://streak-stats.demolab.com?user=lionellshawnmanik&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <!---->
 </div>
 
-Let's connect
-
-Have an idea, project, or just want to say hi? Reach out through one of my socials above, or explore my work on 
-
-GitHub.
-
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,55:312e81,100:0f172a&height=100&section=footer" width="100%" alt="Decorative footer wave" />
-
-<sub>Thanks for stopping by — keep building and stay curious.</sub>
-
-</div>
-
+<p align="center"><sub>lionell shawn manik · <a href="https://www.gitskins.com/readme-generator?template=community-creative-dev-rt3x">creative dev</a> template by <a href="https://www.gitskins.com/creators/himanshu201031">@himanshu201031</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
