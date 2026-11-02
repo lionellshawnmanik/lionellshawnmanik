@@ -1,5 +1,13 @@
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
+<div align="center">
 
+  ## 📂 <span style="color:#00BFFF;">Featured Projects</span>
+  
+  |Project Name |Description |Tech Stack |
+  | :--- | :--- | :--- |
+  | **<a href="https://eltenze.vercel.app">eltenze</a>** | Situs web resmi diri saya sendiri | `Html` |
+  | **<a href="https://crovyz.vercel.app">crovyz</a>** | Situs web resmi brand diri saya sendiri | `Html` `css`|
+</div>
 
 <div align="center">
   <h3>🌐 Connect with eltenze</h3>
