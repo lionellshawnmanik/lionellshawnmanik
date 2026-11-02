@@ -82,16 +82,6 @@ Motto: "Think Big. Build Bigger."
 
 ---
 
-## 🐍 CONTRIBUTION SNAKE
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/lionellshawnmanik/lionellshawnmanik/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-</div>
-
----
-
 <div align="center">
 
 ### ✨ "The future is created, not waited for."
