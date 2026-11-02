@@ -18,8 +18,8 @@
 </div>
   <br>
   <br>
-  <center>
+  <div align="center">
   <img src="https://komarev.com/ghpvc/?username=lionellshawnmanik&style=flat-square&color=00BFFF&label=PROFILE+VIEWS" alt="Profile Views" />
-  </center>
+  </div>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=50&section=footer" width="100%" />
   
