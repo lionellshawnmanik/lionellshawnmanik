@@ -1,40 +1,27 @@
-<!--header-->
-<table>
-  <tr><td colspan="2"><a href="/README.md#%EF%B8%8F-templates">← Back to templates index</a></td></tr>
-  <tr><th colspan="2"><h3>📗 Classic template</h3></th></tr>
-  <tr><td colspan="2" align="center"><p>A template mimicking GitHub visual identity.
-This is also the default template.</p>
-</td></tr>
-  <tr>
-    <th rowspan="3">Supported features<br><sub><a href="metadata.yml">→ Full specification</a></sub></th>
-    <td><a href="/source/plugins/achievements/README.md" title="🏆 Achievements">🏆</a> <a href="/source/plugins/activity/README.md" title="📰 Recent activity">📰</a> <a href="/source/plugins/anilist/README.md" title="🌸 Anilist watch list and reading list">🌸</a> <a href="/source/plugins/calendar/README.md" title="📆 Commit calendar">📆</a> <a href="/source/plugins/code/README.md" title="♐ Random code snippet">♐</a> <a href="/source/plugins/16personalities/README.md" title="🧠 16personalities">🧠</a> <a href="/source/plugins/chess/README.md" title="♟️ Chess">♟️</a> <a href="/source/plugins/crypto/README.md" title="🪙 Crypto">🪙</a> <a href="/source/plugins/fortune/README.md" title="🥠 Fortune">🥠</a> <a href="/source/plugins/nightscout/README.md" title="💉 Nightscout">💉</a> <a href="/source/plugins/poopmap/README.md" title="💩 PoopMap plugin">💩</a> <a href="/source/plugins/screenshot/README.md" title="📸 Website screenshot">📸</a> <a href="/source/plugins/splatoon/README.md" title="🦑 Splatoon">🦑</a> <a href="/source/plugins/stock/README.md" title="💹 Stock prices">💹</a> <a href="/source/plugins/discussions/README.md" title="💬 Discussions">💬</a> <a href="/source/plugins/followup/README.md" title="🎟️ Follow-up of issues and pull requests">🎟️</a> <a href="/source/plugins/gists/README.md" title="🎫 Gists">🎫</a> <a href="/source/plugins/habits/README.md" title="💡 Coding habits and activity">💡</a> <a href="/source/plugins/introduction/README.md" title="🙋 Introduction">🙋</a> <a href="/source/plugins/isocalendar/README.md" title="📅 Isometric commit calendar">📅</a> <a href="/source/plugins/languages/README.md" title="🈷️ Languages activity">🈷️</a> <a href="/source/plugins/leetcode/README.md" title="🗳️ Leetcode">🗳️</a> <a href="/source/plugins/lines/README.md" title="👨‍💻 Lines of code changed">👨‍💻</a> <a href="/source/plugins/music/README.md" title="🎼 Music activity and suggestions">🎼</a> <a href="/source/plugins/notable/README.md" title="🎩 Notable contributions">🎩</a> <a href="/source/plugins/pagespeed/README.md" title="⏱️ Google PageSpeed">⏱️</a> <a href="/source/plugins/people/README.md" title="🧑‍🤝‍🧑 People">🧑‍🤝‍🧑</a> <a href="/source/plugins/posts/README.md" title="✒️ Recent posts">✒️</a> <a href="/source/plugins/projects/README.md" title="🗂️ GitHub projects">🗂️</a> <a href="/source/plugins/reactions/README.md" title="🎭 Comment reactions">🎭</a> <a href="/source/plugins/repositories/README.md" title="📓 Featured repositories">📓</a> <a href="/source/plugins/rss/README.md" title="🗼 Rss feed">🗼</a> <a href="/source/plugins/skyline/README.md" title="🌇 GitHub Skyline">🌇</a> <a href="/source/plugins/sponsors/README.md" title="💕 GitHub Sponsors">💕</a> <a href="/source/plugins/sponsorships/README.md" title="💝 GitHub Sponsorships">💝</a> <a href="/source/plugins/stackoverflow/README.md" title="🗨️ Stack Overflow">🗨️</a> <a href="/source/plugins/stargazers/README.md" title="✨ Stargazers">✨</a> <a href="/source/plugins/starlists/README.md" title="💫 Star lists">💫</a> <a href="/source/plugins/stars/README.md" title="🌟 Recently starred repositories">🌟</a> <a href="/source/plugins/steam/README.md" title="🕹️ Steam">🕹️</a> <a href="/source/plugins/support/README.md" title="💭 GitHub Community Support">💭</a> <a href="/source/plugins/topics/README.md" title="📌 Starred topics">📌</a> <a href="/source/plugins/traffic/README.md" title="🧮 Repositories traffic">🧮</a> <a href="/source/plugins/tweets/README.md" title="🐤 Latest tweets">🐤</a> <a href="/source/plugins/wakatime/README.md" title="⏰ WakaTime">⏰</a></td>
-  </tr>
-  <tr>
-    <td><code>👤 Users</code> <code>👥 Organizations</code></td>
-  </tr>
-  <tr>
-    <td><code>*️⃣ SVG</code> <code>*️⃣ PNG</code> <code>*️⃣ JPEG</code> <code>#️⃣ JSON</code></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.classic.svg" alt=""></img>
-      <img width="900" height="1" alt="">
-    </td>
-  </tr>
-</table>
-<!--/header-->
+# 💫 About Me:
+10th Grade Software Engineer 
 
-## ℹ️ Examples workflows
 
-<!--examples-->
-```yaml
-name: Example
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.classic.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: header, repositories
-  plugin_lines: yes
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eltenze) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@eltenze ) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@eltenze) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Lionell) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lionellshawnmanik@gmail.com) 
 
-```
-<!--/examples-->
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=lionellshawnmanik &theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=lionellshawnmanik &theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=lionellshawnmanik &theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=lionellshawnmanik &theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=lionellshawnmanik &limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=lionellshawnmanik &icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
