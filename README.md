@@ -1,11 +1,103 @@
-# 💫 About Me:
-10th Grade Software Engineer 
 
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eltenze) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@eltenze ) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@eltenze) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Lionell) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lionellshawnmanik@gmail.com) 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080D19,50:312E81,100:6366F1&height=200&section=header&text=LIONELL%20SHAWN%20MANIK&fontSize=35&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Welcome%20to%20my%20digital%20world&descAlignY=60&descSize=15" width="100%"/>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-# ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+# 👋 Hello, World!
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=600&lines=I'm+Lionell+Shawn+Manik;Digital+Enthusiast;Creative+Thinker;Future+Developer;Code.+Create.+Innovate." />
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=lionellshawnmanik&label=PROFILE+VIEWS&color=6366f1&style=for-the-badge" />
+</p>
+
+</div>
+
+---
+
+## 👨‍💻 ABOUT ME
+
+```yaml
+Name: Lionell Shawn Manik
+Username: eltenze
+Role: Digital Enthusiast
+Interests:
+  - Technology
+  - Digital Business
+  - Programming
+  - Creative Projects
+  - Innovation
+
+Motto: "Think Big. Build Bigger."
+```
+
+- 🚀 Exploring the digital world.
+- 💡 Turning creative ideas into reality.
+- 🌐 Learning something new every day.
+- ⚡ Building my own digital journey.
+
+---
+
+## 🌐 CONNECT WITH ME
+
+<div align="center">
+
+<a href="https://instagram.com/eltenze">
+<img src="https://img.shields.io/badge/Instagram-@eltenze-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://tiktok.com/@eltenze">
+<img src="https://img.shields.io/badge/TikTok-@eltenze-black?style=for-the-badge&logo=tiktok&logoColor=white"/>
+</a>
+
+<a href="https://youtube.com/@eltenze">
+<img src="https://img.shields.io/badge/YouTube-@eltenze-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 🛠️ TECH & TOOLS
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,github,vscode&theme=dark" />
+
+</div>
+
+---
+
+## 📊 GITHUB STATISTICS
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=lionellshawnmanik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=lionellshawnmanik&theme=tokyonight&hide_border=true" />
+
+<img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lionellshawnmanik&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/lionellshawnmanik/lionellshawnmanik/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ "The future is created, not waited for."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:312E81,100:080D19&height=120&section=footer"/>
+
+**© 2026 Lionell Shawn Manik | ELTENZE**
+
+</div>
