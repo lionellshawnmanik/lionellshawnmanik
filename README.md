@@ -1,98 +1,54 @@
+## Ship · learn · repeat
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080D19,50:312E81,100:6366F1&height=200&section=header&text=LIONELL%20SHAWN%20MANIK&fontSize=35&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Welcome%20to%20my%20digital%20world&descAlignY=60&descSize=15" width="100%"/>
+# lionell shawn manik
 
-# 👋 Hello, World!
+> Frontend or full-stack engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=600&lines=I'm+Lionell+Shawn+Manik;Digital+Enthusiast;Creative+Thinker;Future+Developer;Code.+Create.+Innovate." />
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=lionellshawnmanik&label=PROFILE+VIEWS&color=6366f1&style=for-the-badge" />
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=lionellshawnmanik&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F272584682%3Fu%3Dc599c1fc7baf3fa3013ead53bfffd0a809aa59e9%26v%3D4" alt="lionellshawnmanik hero visual" />
 </p>
 
 </div>
 
----
+## The current loop
 
-## 👨‍💻 ABOUT ME
+> 15 years old 
 
-```yaml
-Name: Lionell Shawn Manik
-Username: eltenze
-Role: Digital Enthusiast
-Interests:
-  - Technology
-  - Digital Business
-  - Programming
-  - Creative Projects
-  - Innovation
+- 📍 Based in **Indonesia**
+- 👥 **0** followers · **0** following
 
-Motto: "Think Big. Build Bigger."
-```
+*Small, useful work over vague claims.*
 
-- 🚀 Exploring the digital world.
-- 💡 Turning creative ideas into reality.
-- 🌐 Learning something new every day.
-- ⚡ Building my own digital journey.
+## Things I’m building
 
----
+<table>
+<tr><td width="32%"><b><a href="https://github.com/lionellshawnmanik/eltenze">eltenze</a></b></td><td>A selected project from this GitHub profile.<br/><sub>HTML · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/lionellshawnmanik/lionell">lionell</a></b></td><td>A selected project from this GitHub profile.<br/><sub>open source · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/lionellshawnmanik/lionellshawnmanik">lionellshawnmanik</a></b></td><td>A selected project from this GitHub profile.<br/><sub>open source · 0 stars</sub></td></tr>
+</table>
 
-## 🌐 CONNECT WITH ME
+## Signals
 
-<div align="center">
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=lionellshawnmanik&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F272584682%3Fu%3Dc599c1fc7baf3fa3013ead53bfffd0a809aa59e9%26v%3D4" alt="lionellshawnmanik stats visual" />
+</p>
 
-<a href="https://instagram.com/eltenze">
-<img src="https://img.shields.io/badge/Instagram-@eltenze-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+<p><code>61 contributions</code> · <code>1 day streak</code></p>
 
-<a href="https://tiktok.com/@eltenze">
-<img src="https://img.shields.io/badge/TikTok-@eltenze-black?style=for-the-badge&logo=tiktok&logoColor=white"/>
-</a>
+## The shipping calendar
 
-<a href="https://youtube.com/@eltenze">
-<img src="https://img.shields.io/badge/YouTube-@eltenze-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=lionellshawnmanik&theme=satan" alt="lionellshawnmanik contribution activity" />
+</p>
 
-</div>
+## Work with me
 
----
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=lionellshawnmanik&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F272584682%3Fu%3Dc599c1fc7baf3fa3013ead53bfffd0a809aa59e9%26v%3D4" alt="lionellshawnmanik social visual" />
+</p>
 
-## 🛠️ TECH & TOOLS
+<a href="https://github.com/lionellshawnmanik">GitHub</a>
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,github,vscode&theme=dark" />
-
-</div>
-
----
-
-## 📊 GITHUB STATISTICS
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=lionellshawnmanik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=lionellshawnmanik&theme=tokyonight&hide_border=true" />
-
-<img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lionellshawnmanik&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
-### ✨ "The future is created, not waited for."
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:312E81,100:080D19&height=120&section=footer"/>
-
-**© 2026 Lionell Shawn Manik | ELTENZE**
-
-</div>
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lionellshawnmanik/lionellshawnmanik/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lionellshawnmanik/lionellshawnmanik/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lionellshawnmanik/lionellshawnmanik/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
+<p align="center"><sub>lionell shawn manik · Indie hacker profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
