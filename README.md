@@ -7,7 +7,7 @@
   | :--- | :--- | :--- |
   | **<a href="https://eltenze.vercel.app">eltenze</a>** | Situs web resmi diri saya sendiri | `Html` |
   | **<a href="https://crovyz.vercel.app">crovyz</a>** | Situs web resmi brand diri saya sendiri | `Html` `css`|
-  | **<a href="https://loop-social-oaahdxkz.manus.space/">loop</a>** | Situs web resmi sosial media saya sendiri | `Html` `css` `java script`|
+  | **<a href="https://loop-social-oaahdxkz.manus.space/">loop</a>** | Situs web resmi sosial media saya sendiri | `css` `java script` |
 </div>
 
 <div align="center">
